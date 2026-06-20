@@ -1,0 +1,4 @@
+1 - SIGHUP (Restart)
+2 - SIGINT (Ctrl + C)
+9 - SIGKILL (Forse)
+15 - SIGTERM (Default)
