@@ -1,0 +1,7 @@
+apple
+Banana
+100
+10
+20
+  cherry
+  apple
