@@ -1,6 +1,1 @@
-a
-b
-c
-a
-b
-c
+The quick brown fox jimped over the laxy dog.
