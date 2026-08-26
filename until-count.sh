@@ -1,0 +1,10 @@
+#!/bin/bash
+# until-count: вывод последовательности чисел
+
+count=1
+
+until [ $count -gt 5 ]; do
+    echo $count
+    count=$((count + 1))
+done
+echo "Finished"
