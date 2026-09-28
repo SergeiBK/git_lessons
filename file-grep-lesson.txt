@@ -1,0 +1,6 @@
+cat << 'EOF' > file-grep-lesson.txt
+apple
+a
+banana
+
+EOF
