@@ -1,0 +1,7 @@
+[INFO] System boot started at 2026-10-28 08:00:01
+[INFO] Mountingroot filesystem /dev/sda1
+[WARN] Network interface eth0 not ready, retrying...
+[INFO] Network interface eth0 connected successfully
+[ERROR] Failed to start firewall service: permission denied
+[INFO] User root logged in from 192.168.1.50
+[INFO] System boot completed

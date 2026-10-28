@@ -1,0 +1,8 @@
+[ERROR] Failed to start firewall service: permission denied
+[ERROR] Failet to connect to database backend
+[WARN] Disk usage on /var exceeds 85%
+[INFO] Service httpd restarted successfully
+[INFO] User admin logged in from 192.168.1.100
+[INFO] System backup completed successfully
+
+
