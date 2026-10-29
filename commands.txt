@@ -1,0 +1,5 @@
+# Linux Command Line Practice
+## Сортировка и подсчет строк (sort +  uniq -c)
+Связка для анализа текста и логов (сортировка обязательна, так как uniq считает только соседние строки):
+'''bash
+cat access.txt | sort | uniq -c > access2.txt
