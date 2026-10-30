@@ -3,3 +3,9 @@
 Связка для анализа текста и логов (сортировка обязательна, так как uniq считает только соседние строки):
 '''bash
 cat access.txt | sort | uniq -c > access2.txt
+
+30.10.2026
+## Фильтрация текста через конвеер (grep)
+'''bash
+cat processes.txt | grep "nginx" >filtered_processes.txt
+
