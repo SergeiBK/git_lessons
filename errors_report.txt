@@ -1,0 +1,4 @@
+2026-11-01T16:21:20.440125+00:00 fujitsu ModemManager[1137]: <wrn> [plugin-manager] task 2,eno1: error when checking support with plugin 'Intel': (Intel) Missing port probe for port (net/eno1)
+2026-11-01T16:21:20.440274+00:00 fujitsu ModemManager[1137]: <wrn> [plugin-manager] task 3,eno2: error when checking support with plugin 'Intel': (Intel) Missing port probe for port (net/eno2)
+2026-11-01T16:21:20.440338+00:00 fujitsu ModemManager[1137]: <wrn> [plugin-manager] task 2,eno1: error when checking support with plugin 'generic': (generic) Missing port probe for port (net/eno1)
+2026-11-01T16:21:20.440408+00:00 fujitsu ModemManager[1137]: <wrn> [plugin-manager] task 3,eno2: error when checking support with plugin 'generic': (generic) Missing port probe for port (net/eno2)

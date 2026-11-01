@@ -9,3 +9,7 @@ cat access.txt | sort | uniq -c > access2.txt
 '''bash
 cat processes.txt | grep "nginx" >filtered_processes.txt
 
+31.10.2026
+## Фильтрация логов с ограничением по количеству строк (cat + grep + tail)
+'''bash
+cat /var/log/syslog | grep -i "error" | tail -n 10 > errors_report.txt
